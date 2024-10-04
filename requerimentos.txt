@@ -1,7 +1,5 @@
-Os requerimentos necessários para conseguir rodar este código são as bibliotecas:
 requests
 Pillow
 colorama
 io
 time
-
