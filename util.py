@@ -22,7 +22,7 @@ def get_pokemon_info(nome):
 
 def get_pokemon_info_por_url(url):
 
-    ##Retorna as informações de im Pokémon a partir de uma URL
+    ##Retorna as informações de um Pokémon a partir de uma URL
 
     response = requests.get(url)
     if response.status_code == 200:
